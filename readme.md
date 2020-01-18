@@ -4,6 +4,8 @@
 Jupyter Notebook für das Barcamp 
 Flensburg/Kiel 2019
 
+mir Erweiterungen für das Pythoncamp Leipzig 2020
+
 Datei: auswertung.ipynb
 
 Benötigt werden:
